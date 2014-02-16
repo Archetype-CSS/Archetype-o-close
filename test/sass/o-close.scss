@@ -1,0 +1,13 @@
+/**
+ * Test: Archetype/o-close.scss
+ *
+ */
+@import '../../_o-close.scss';
+
+/**
+ * close object test class
+ */
+.test__o-close {
+  @extend .close;
+}
+

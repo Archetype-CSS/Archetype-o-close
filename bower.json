@@ -1,0 +1,12 @@
+{
+  "name": "Archetype-o-close",
+  "version": "0.1.0",
+  "author": "Sam Ashley",
+  "main": "_o-close.scss",
+  "ignore": [
+    ".*",
+    "CHANGELOG.md",
+    "package.json",
+    "/test"
+  ]
+}
